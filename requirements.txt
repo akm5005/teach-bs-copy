@@ -6,3 +6,4 @@ simalign
 streamlit
 requests
 laser_encoders
+spacy>=3.5.0,<4.0.0
